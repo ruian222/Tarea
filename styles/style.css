@@ -1,0 +1,122 @@
+body {
+    background: hsl(230, 17%, 14%);
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.placeHolder{
+    background: hsl(228, 28%, 20%);
+    margin-right: 1em;
+    margin-left: 1em;
+    border-radius: 5px;
+    margin-bottom: 3em;
+    
+}
+
+.twitter{
+    border-top-style: outset;
+    border-top-color: hsl(203, 89%, 53%);
+    border-top-width: 5px;
+}
+
+.facebook{
+    border-top-style: outset;
+    border-top-color: hsl(208, 92%, 53%);
+    border-top-width: 5px;
+}
+
+.instagram{
+    border-top-style: outset;
+    border-image-source: linear-gradient(45deg, hsl(37, 97%, 70%), hsl(329, 70%, 58%));
+    border-image-slice: 1;
+    border-top-width: 5px;
+}
+
+.youtube{
+    border-top-style: outset;
+    border-top-color: hsl(348, 97%, 39%);
+    border-top-width: 5px;
+}
+
+.userText{
+    display:inline-block;
+    padding-top: 16px;
+    padding-left: 10px;
+    color: hsl(228, 34%, 66%);
+    font-size: .6em;
+    font-weight: 700;
+}
+.dailyText{
+    display:inline-block;
+    padding-top: 16px;
+    padding-left: 10px;
+    color: hsl(228, 34%, 66%);
+    font-size: .8em;
+    font-weight: 700;
+}
+.growthText{
+    display:inline-block;
+    padding-top: 16px;
+    padding-left: 10px;
+    color: hsl(163, 72%, 41%);
+    font-size: .8em;
+    font-weight: 700;
+}
+.lostText{
+    display:inline-block;
+    padding-top: 16px;
+    padding-left: 10px;
+    color: hsl(356, 69%, 56%);
+    font-size: .8em;
+    font-weight: 700;
+}
+
+.userIcon{
+    display:inline-block;
+}
+
+.dailyIcon{
+    display:inline-block;
+    padding-top: 14px;
+}
+
+h1 {
+font-family: 'Inter', sans-serif;
+font-weight: 700;
+font-size: 3em;
+}
+
+h2 {
+font-family: 'Inter', sans-serif;
+font-weight: 700;
+font-size: 2em;
+}
+
+h3 {
+font-family: 'Inter', sans-serif;
+font-weight: 700;
+font-size: 1em;
+color: hsl(228, 34%, 66%);
+}
+
+h4 {
+font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: .9em;
+color: hsl(228, 34%, 66%);
+}
+
+.header{
+    padding-top: 2em;
+    padding-bottom: 8em;
+    background:hsl(232, 19%, 15%);
+    border-radius: 10px;
+}
+
+.follows {
+ margin-top: -6em;
+}
+
+.secondTittle{
+    margin-bottom: 2em;
+}
